@@ -1,0 +1,6 @@
+GITHUB PAGES UPLOAD
+
+1. Extract this ZIP and upload all files/folders to the ROOT of your GitHub Pages repository.
+2. GitHub → Settings → Pages → Deploy from a branch → main → /(root) → Save.
+
+Replace demo menu prices, forms, address, hours, phone, email and other placeholders with verified business information before publishing them as official.
